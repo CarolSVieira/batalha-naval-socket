@@ -6,11 +6,7 @@ Regras do Jogo:
 
 -Há um tabuleiro de 5x5, ou seja, 25 blocos. Há 3 navios escondidos (um em cada bloco).
 
-<<<<<<< HEAD
 -O objetivo do jogo é descobrir onde estão estes navios e acertá-los.
-=======
--O objetivo do jogar é descobrir onde estão estes navios e acertá-los.
->>>>>>> 0eebe2423c08d7e16eb2582e7c5f99a3bbb32ce4
 
 -A cada tiro dado é dito se você acertou algum navio. Caso tenha errado, é dito quantos navios existem naquela linha e naquela coluna.
 
